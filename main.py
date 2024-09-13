@@ -1,5 +1,9 @@
+import math
+
 from shape_container import ShapeContainer
-from sub_shape import *
+from rectangle import Rectangle
+from square import Square
+from circle import Circle
 
 
 def test_rectangle() -> None:

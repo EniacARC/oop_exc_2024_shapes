@@ -1,5 +1,7 @@
 import random
-from sub_shape import *
+from rectangle import Rectangle
+from square import Square
+from circle import Circle
 
 
 class ShapeContainer:
